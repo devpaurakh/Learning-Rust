@@ -3,7 +3,7 @@
 
 fn main() {
     println!("Guess the number");
-    let mut secrate_number = 21;
+    let mut secrate_number = 1;
     let mut guess_input = 0;
 
     while guess_input != secrate_number {
